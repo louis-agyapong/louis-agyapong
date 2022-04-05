@@ -7,7 +7,7 @@ I'm a python software developer based in Ghana 🇬🇭. I'm very passionate abo
 - 🔭 I’m currently working on Skoolog (An end to end data driven school management system)
 - 🌱 I’m currently learning to be an Efficient Python Developer
 - 💬 Ask me about anything
-- ⚡ Fun fact: I enjoy playing basketball leisurely. My favorite teams are Lakers and Real Madrid.
+- ⚡ I enjoy playing basketball leisurely. My favorite teams are Lakers and Real Madrid.
 - 📫 How to reach me: [@agyapong_louis](https://twitter.com/agyapong_louis) on Twitter
 <!--
 - 👯 I’m looking to collaborate on ...
