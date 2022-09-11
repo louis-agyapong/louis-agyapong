@@ -1,7 +1,7 @@
 <!--
 **louis-agyapong/louis-agyapong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌍 I'm a python software developer based in Ghana 🇬🇭
+- 🌍 I'm a software developer based in Ghana 🇬🇭
 - 🔭 I’m currently working on Skoolog (An end to end data driven school management system)
 - 💬 Ask me about anything
 - ⚡ I enjoy playing 🏀 basketball leisurely. My favorite teams are Lakers and Real Madrid.
